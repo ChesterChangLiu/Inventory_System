@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <Info />
-      <p>Chang Liu's App</p>
       <AddItem />
     </div>
   );
